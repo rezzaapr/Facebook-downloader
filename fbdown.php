@@ -4,7 +4,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facebook Downloader</title>
-    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="CSS/style.css" type="text/css">
   </head>
   <body>
       <nav>
@@ -12,21 +12,7 @@
       <div class="title">
        <a href="../index.html">Facebook Downloader</a>
       </div>
-      <div class="tblmenubox">
-        <div class="togel tblmenu">
-
-        </div>
-      </div>
-      <div class="menu">
-        <ul>
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="tool/fbdown.php">Facebook Downloader</a></li>
-          <li><a href="#">Instagram Downloader</a></li>
-          <li><a href="#">API Tools</a></li>
-          <li><a href="#">About</a></li>
-        </ul>
-      </div>
-      </div>
+     </div>
     </nav>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script type="text/javascript">
